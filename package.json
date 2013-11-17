@@ -1,9 +1,9 @@
 {
-    "name": "gruehle-byword.markdown-preview",
+    "name": "byword.markdown-preview",
     "title": "Markdown Preview",
     "description": "Live preview of markdown documents",
     "homepage": "https://github.com/jpwagner/MarkdownPreview",
-    "version": "0.1.4.1",
+    "version": "0.1.1",
     "author": "Glenn Ruehle <gruehle@gmail.com> (http://github.com/gruehle)",
     "license": "MIT",
     "engines": {
