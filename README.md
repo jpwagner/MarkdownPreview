@@ -22,5 +22,5 @@ The preview is updated as you edit the document. You can hover over links to see
 This extension uses the following open source components:
 
 * [Marked](https://github.com/chjj/marked) - A markdown parser written in JavaScript
-* [markdown-css-themes](https://github.com/jasonm23/markdown-css-themes) - This extension uses the "Swiss" theme
+* [markdown-css-themes](https://github.com/jasonm23/markdown-css-themes) - This extension uses the ~~"Swiss"~~ Byword theme
 * [markdown-mark](https://github.com/dcurtis/markdown-mark) - The icon used in the toolbar
